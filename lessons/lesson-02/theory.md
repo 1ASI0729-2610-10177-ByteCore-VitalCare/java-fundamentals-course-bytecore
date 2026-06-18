@@ -62,6 +62,6 @@ System.out.println("Hola, " + nombre + ". Tienes " + edad + " años.");
 > Crea variables con tu propia información y muéstralas en pantalla.
 
 **Enlace Replit / JDoodle**:  
-`<!-- INSERTAR ENLACE AQUÍ -->`
+https://www.jdoodle.com/ia/1Ud6
 
 **Consigna**: Declara variables con tu nombre, edad, nota favorita y si te gusta la programación. Imprime una presentación personal.

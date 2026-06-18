@@ -89,6 +89,6 @@ public class TablaDeMultiplicar {
 > Crea un programa que evalúe notas y genere una tabla de multiplicar.
 
 **Enlace Replit / JDoodle**:  
-`<!-- INSERTAR ENLACE AQUÍ -->`
+https://www.jdoodle.com/ia/1Ud8
 
 **Consigna**: Usa `if-else` para clasificar una nota (Excelente / Bueno / Aprobado / Desaprobado) y un bucle `for` para imprimir la tabla de multiplicar del número 7.

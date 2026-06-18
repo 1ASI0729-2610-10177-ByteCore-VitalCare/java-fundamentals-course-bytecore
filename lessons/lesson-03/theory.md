@@ -63,6 +63,6 @@ public class Calculadora {
 > Construye una mini calculadora que opere con dos números.
 
 **Enlace Replit / JDoodle**:  
-`<!-- INSERTAR ENLACE AQUÍ -->`
+https://www.jdoodle.com/ia/1Ud7
 
 **Consigna**: Declara dos variables numéricas y muestra el resultado de todas las operaciones aritméticas. Agrega una comparación que indique cuál número es mayor.
