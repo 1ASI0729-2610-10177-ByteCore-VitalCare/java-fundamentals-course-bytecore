@@ -22,7 +22,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
   - Java es un lenguaje de programación usado en aplicaciones móviles, videojuegos y sistemas bancarios.
   - Un programa es una lista de instrucciones que la computadora sigue paso a paso.
   - Todo programa Java parte de un método `main`.
-- **Práctica**: [Abrir editor online — Hola Mundo](https://www.jdoodle.com/online-java-compiler/) *(no requiere registro)*
+- **Práctica**: [Abrir editor online — Hola Mundo](https://www.jdoodle.com/ia/1Ud5) *(no requiere registro)*
 
 ---
 
@@ -34,7 +34,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
   - Una variable es un espacio en memoria con un nombre y un valor.
   - Tipos principales: `int` (números enteros), `double` (decimales), `String` (texto), `boolean` (verdadero/falso).
   - Declaración: `int edad = 15;` / `String nombre = "Ana";`
-- **Práctica**: [Abrir editor online — Variables](https://www.jdoodle.com/online-java-compiler/) *(no requiere registro)*
+- **Práctica**: [Abrir editor online — Variables](https://www.jdoodle.com/ia/1Ud6) *(no requiere registro)*
 
 ---
 
@@ -46,7 +46,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
   - Operadores aritméticos: `+`, `-`, `*`, `/`, `%`
   - Operadores de comparación: `==`, `!=`, `>`, `<`, `>=`, `<=`
   - Operadores lógicos: `&&` (y), `||` (o), `!` (no)
-- **Práctica**: [Abrir editor online — Operadores](https://www.jdoodle.com/online-java-compiler/) *(no requiere registro)*
+- **Práctica**: [Abrir editor online — Operadores](https://www.jdoodle.com/ia/1Ud7) *(no requiere registro)*
 
 ---
 
@@ -58,7 +58,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
   - `if (edad >= 12) { ... } else { ... }` para tomar decisiones.
   - `for (int i = 0; i < 5; i++) { ... }` para repetir un número fijo de veces.
   - `while (condicion) { ... }` para repetir mientras se cumpla una condición.
-- **Práctica**: [Abrir editor online — Estructuras de control](https://www.jdoodle.com/online-java-compiler/) *(no requiere registro)*
+- **Práctica**: [Abrir editor online — Estructuras de control](https://www.jdoodle.com/ia/1Ud8) *(no requiere registro)*
 
 ---
 
@@ -70,7 +70,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
   - Un método es un bloque de código con nombre que puedes llamar cuando necesites: `public static void saludar() { ... }`
   - `System.out.println(...)` muestra texto en pantalla.
   - `Scanner` lee lo que el usuario escribe: `Scanner sc = new Scanner(System.in);`
-- **Práctica**: [Abrir editor online — Métodos y Scanner](https://www.jdoodle.com/online-java-compiler/) *(no requiere registro)*
+- **Práctica**: [Abrir editor online — Métodos y Scanner](https://www.jdoodle.com/ia/1Ud9) *(no requiere registro)*
 
 ---
 
@@ -83,7 +83,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
   - Los atributos describen características: `String nombre;`, `int edad;`
   - Los métodos describen comportamientos: `void presentarse() { ... }`
   - Constructor: `public Estudiante(String nombre, int edad) { ... }`
-- **Práctica**: [Abrir editor online — Clases y Objetos](https://www.jdoodle.com/online-java-compiler/) *(no requiere registro)*
+- **Práctica**: [Abrir editor online — Clases y Objetos](https://www.jdoodle.com/ia/1Uda) *(no requiere registro)*
 
 ---
 
@@ -95,25 +95,25 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
   - Encapsulación: atributos `private` + métodos `public` getter/setter para proteger los datos.
   - `this.nombre = nombre;` para diferenciar el atributo del parámetro.
   - Proyecto final: clase `Estudiante` con nombre, edad y nota; registro de varios estudiantes con `Scanner`.
-- **Proyecto final**: [Abrir editor online — Registro de Estudiante](https://www.jdoodle.com/online-java-compiler/) *(guarda y comparte tu código)*
+- **Proyecto final**: [Abrir editor online — Registro de Estudiante](https://www.jdoodle.com/ia/1Udb) *(guarda y comparte tu código)*
 
 ---
 
 ## Recursos Adicionales
 
-**Código fuente completo**: [Repositorio de GitHub](https://github.com/upc-pre-202610-1asi0729-10177-bytecore/java-fundamentals-course-bytecore)
+**Código fuente completo**: [Repositorio de GitHub](https://github.com/1ASI0729-2610-10177-ByteCore-VitalCare/java-fundamentals-course-bytecore.git)
 
 **Resumen de actividades prácticas**:
 
-| Lección | Tema | Editor online |
-|---------|------|---------------|
-| 1 | Hola Mundo | [JDoodle](https://www.jdoodle.com/online-java-compiler/) |
-| 2 | Variables y tipos de datos | [JDoodle](https://www.jdoodle.com/online-java-compiler/) |
-| 3 | Operadores y expresiones | [JDoodle](https://www.jdoodle.com/online-java-compiler/) |
-| 4 | Estructuras de control | [OnlineGDB](https://www.onlinegdb.com/online_java_compiler) |
-| 5 | Métodos y entrada/salida | [OnlineGDB](https://www.onlinegdb.com/online_java_compiler) |
-| 6 | Clases y objetos | [JDoodle](https://www.jdoodle.com/online-java-compiler/) |
-| 7 | Encapsulación y proyecto final | [JDoodle](https://www.jdoodle.com/online-java-compiler/) |
+| Lección | Tema                           | Editor online                                               |
+|---------|--------------------------------|-------------------------------------------------------------|
+| 1       | Hola Mundo                     | [JDoodle](https://www.jdoodle.com/online-java-compiler/)    |
+| 2       | Variables y tipos de datos     | [JDoodle](https://www.jdoodle.com/online-java-compiler/)    |
+| 3       | Operadores y expresiones       | [JDoodle](https://www.jdoodle.com/online-java-compiler/)    |
+| 4       | Estructuras de control         | [JDoodle](https://www.jdoodle.com/online-java-compiler/)    |
+| 5       | Métodos y entrada/salida       | [JDoodle](https://www.jdoodle.com/online-java-compiler/)    |
+| 6       | Clases y objetos               | [JDoodle](https://www.jdoodle.com/online-java-compiler/)    |
+| 7       | Encapsulación y proyecto final | [JDoodle](https://www.jdoodle.com/online-java-compiler/)    |
 
 ---
 

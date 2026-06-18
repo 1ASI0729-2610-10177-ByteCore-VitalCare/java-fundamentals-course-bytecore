@@ -25,7 +25,7 @@ java-fundamentals-course-bytecore/
 
 | Propósito | Herramienta |
 |-----------|-------------|
-| Editor de código online | [JDoodle](https://www.jdoodle.com/online-java-compiler/) / [OnlineGDB](https://www.onlinegdb.com/online_java_compiler) |
+| Editor de código online | [JDoodle](https://www.jdoodle.com/online-java-compiler/) |
 | Alojamiento de videos | YouTube (no listados) |
 | Requisito para estudiantes | Solo navegador web (Chrome, Firefox, Safari, Edge) |
 
