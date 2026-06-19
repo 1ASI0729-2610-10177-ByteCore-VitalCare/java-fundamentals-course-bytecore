@@ -53,7 +53,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ### Lección 4: Estructuras de control — Decisiones y bucles (10 minutos)
 
 - **Descripción**: Haz que tu programa tome decisiones con `if-else` y repita tareas automáticamente con bucles `for` y `while`.
-- **Enlace**: [Ver lección en YouTube](https://www.youtube.com/watch?v=PENDIENTE-L4)
+- **Enlace**: [Ver lección en YouTube](https://www.youtube.com/watch?v=xtjPtHL-Fnk)
 - **Conclusiones clave**:
   - `if (edad >= 12) { ... } else { ... }` para tomar decisiones.
   - `for (int i = 0; i < 5; i++) { ... }` para repetir un número fijo de veces.
