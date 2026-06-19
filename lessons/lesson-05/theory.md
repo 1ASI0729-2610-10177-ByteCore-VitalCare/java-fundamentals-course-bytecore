@@ -84,6 +84,6 @@ Métodos útiles de `Scanner`:
 > Crea un programa interactivo que pida datos al usuario y calcule algo con ellos.
 
 **Enlace Replit / JDoodle**:  
-`<!-- INSERTAR ENLACE AQUÍ -->`
+https://www.jdoodle.com/ia/1Ud9
 
 **Consigna**: Pide al usuario su nombre y dos notas. Crea un método `calcularPromedio` que devuelva el promedio e indique si está aprobado (nota >= 11).

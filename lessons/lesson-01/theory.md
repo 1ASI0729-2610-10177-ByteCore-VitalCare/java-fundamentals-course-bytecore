@@ -43,6 +43,6 @@ Puntos clave:
 > Abre el editor online con el enlace de abajo, ejecuta el código y cambia el mensaje por tu nombre.
 
 **Enlace Replit / JDoodle**:  
-`<!-- INSERTAR ENLACE AQUÍ -->`
+https://www.jdoodle.com/ia/1Ud5
 
 **Consigna**: Modifica el programa para que imprima `"¡Hola, me llamo [tu nombre]!"`.

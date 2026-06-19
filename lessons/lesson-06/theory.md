@@ -79,6 +79,6 @@ public class Main {
 > Crea tu primera clase y genera objetos a partir de ella.
 
 **Enlace Replit / JDoodle**:  
-`<!-- INSERTAR ENLACE AQUÍ -->`
+https://www.jdoodle.com/ia/1Uda
 
 **Consigna**: Crea una clase `Mascota` con atributos `nombre`, `especie` y `edad`. Agrega un constructor y un método `describirse()`. Luego crea al menos dos mascotas en `main` y llámalas.

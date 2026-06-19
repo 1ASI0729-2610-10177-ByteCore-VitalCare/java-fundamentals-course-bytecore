@@ -100,6 +100,6 @@ public class RegistroEstudiantes {
 > Ejecuta el proyecto final y registra a tus compañeros de clase.
 
 **Enlace Replit / JDoodle**:  
-`<!-- INSERTAR ENLACE AQUÍ -->`
+https://www.jdoodle.com/ia/1Udb
 
 **Consigna**: Corre el programa, registra 3 estudiantes ficticios con diferentes notas y verifica que el estado (Aprobado / Desaprobado) se muestre correctamente. Intenta también modificar la nota de un estudiante usando el setter.
