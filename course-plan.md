@@ -17,7 +17,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ### Lección 1: ¿Qué es Java y para qué sirve? (5 minutos)
 
 - **Descripción**: Descubre qué es la programación, por qué Java es uno de los lenguajes más usados en el mundo y qué podrás crear al terminar este curso.
-- **Enlace**: [Ver lección en YouTube](https://www.youtube.com/watch?v=PENDIENTE-L1)
+- **Enlace**: [Ver lección en YouTube](https://youtu.be/0n2hkEsnPHE)
 - **Conclusiones clave**:
   - Java es un lenguaje de programación usado en aplicaciones móviles, videojuegos y sistemas bancarios.
   - Un programa es una lista de instrucciones que la computadora sigue paso a paso.
@@ -29,7 +29,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ### Lección 2: Variables y tipos de datos (8 minutos)
 
 - **Descripción**: Aprende a guardar información en tu programa usando variables. Conoce los tipos de datos más comunes en Java.
-- **Enlace**: [Ver lección en YouTube](https://www.youtube.com/watch?v=PENDIENTE-L2)
+- **Enlace**: [Ver lección en YouTube](https://youtu.be/3LzQGgFq7EE)
 - **Conclusiones clave**:
   - Una variable es un espacio en memoria con un nombre y un valor.
   - Tipos principales: `int` (números enteros), `double` (decimales), `String` (texto), `boolean` (verdadero/falso).
@@ -41,7 +41,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ### Lección 3: Operadores y expresiones (7 minutos)
 
 - **Descripción**: Usa operadores aritméticos, de comparación y lógicos para crear expresiones que den vida a tus programas.
-- **Enlace**: [Ver lección en YouTube](https://www.youtube.com/watch?v=PENDIENTE-L3)
+- **Enlace**: [Ver lección en YouTube](https://youtu.be/81ptCJb6ukU)
 - **Conclusiones clave**:
   - Operadores aritméticos: `+`, `-`, `*`, `/`, `%`
   - Operadores de comparación: `==`, `!=`, `>`, `<`, `>=`, `<=`
