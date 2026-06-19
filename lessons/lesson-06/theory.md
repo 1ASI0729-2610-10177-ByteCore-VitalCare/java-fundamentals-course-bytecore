@@ -82,3 +82,6 @@ public class Main {
 https://www.jdoodle.com/ia/1Uda
 
 **Consigna**: Crea una clase `Mascota` con atributos `nombre`, `especie` y `edad`. Agrega un constructor y un método `describirse()`. Luego crea al menos dos mascotas en `main` y llámalas.
+
+
+

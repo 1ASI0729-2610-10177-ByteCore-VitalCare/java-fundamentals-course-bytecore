@@ -77,7 +77,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ### Lección 6: Introducción a la POO — Clases y Objetos (12 minutos)
 
 - **Descripción**: Da el salto a la programación orientada a objetos. Crea tu primera clase con atributos y métodos, e instancia objetos a partir de ella.
-- **Enlace**: [Ver lección en YouTube](https://www.youtube.com/watch?v=PENDIENTE-L6)
+- **Enlace**: [Ver lección en YouTube](https://youtu.be/M0aS6wLOLUU)
 - **Conclusiones clave**:
   - Una clase es el molde; un objeto es el producto creado a partir de ese molde.
   - Los atributos describen características: `String nombre;`, `int edad;`
