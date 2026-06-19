@@ -90,7 +90,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ### Lección 7: Encapsulación y proyecto final — Registro de Estudiante (8 minutos)
 
 - **Descripción**: Aplica encapsulación con getters y setters, y construye un programa completo de registro de estudiantes que integra todo lo aprendido.
-- **Enlace**: [Ver lección en YouTube](https://www.youtube.com/watch?v=PENDIENTE-L7)
+- **Enlace**: [Ver lección en YouTube](https://youtu.be/hAi5khK8vrs)
 - **Conclusiones clave**:
   - Encapsulación: atributos `private` + métodos `public` getter/setter para proteger los datos.
   - `this.nombre = nombre;` para diferenciar el atributo del parámetro.
