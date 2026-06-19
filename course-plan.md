@@ -65,7 +65,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ### Lección 5: Métodos y entrada/salida básica (10 minutos)
 
 - **Descripción**: Organiza tu código creando métodos reutilizables y aprende a interactuar con el usuario mediante `Scanner`.
-- **Enlace**: [Ver lección en YouTube](https://www.youtube.com/watch?v=PENDIENTE-L5)
+- **Enlace**: [Ver lección en YouTube](https://youtu.be/Rdpv7WV0q0o)
 - **Conclusiones clave**:
   - Un método es un bloque de código con nombre que puedes llamar cuando necesites: `public static void saludar() { ... }`
   - `System.out.println(...)` muestra texto en pantalla.
